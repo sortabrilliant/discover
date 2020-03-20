@@ -1,0 +1,47 @@
+{
+  "engineName": "wordpress-plugins",
+  "hostIdentifier": "host-gn43ui",
+  "endpointBase": "https://host-gn43ui.api.swiftype.com",
+  "searchKey": "search-aozus755xk1d1sgiby3vor24",
+  "resultFields": [
+    "name",
+    "slug",
+    "version",
+    "author",
+    "author_profile",
+    "requires",
+    "tested",
+    "requires_php",
+    "rating",
+    "ratings",
+    "num_ratings",
+    "support_threads",
+    "support_threads_resolved",
+    "active_installs",
+    "downloaded",
+    "last_updated",
+    "added",
+    "homepage",
+    "description",
+    "short_description",
+    "download_link",
+    "tags",
+    "donate_link",
+    "icons",
+    "author_block_count",
+    "author_block_rating",
+    "id"
+  ],
+  "sortFields": [
+    "active_installs",
+    "last_updated",
+    "downloaded"
+  ],
+  "facets": [
+    "tested",
+    "requires_php",
+    "requires"
+  ],
+  "titleField": "name",
+  "urlField": "download_link"
+}
