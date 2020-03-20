@@ -1,2 +1,2 @@
-# explore
+# discover
 Block Explorer
